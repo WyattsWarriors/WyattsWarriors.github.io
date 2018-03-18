@@ -1,4 +1,4 @@
 title: Cayman theme
 description: XitHub Pages.
-show_downloads:
+show_downloads: true
 theme: jekyll-theme-cayman
