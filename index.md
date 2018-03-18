@@ -11,8 +11,8 @@ Table of Contents
 	+ [SWOT Analysis](#swot-analysis)
 * [Marketing Strategies](#marketing-strategies)
 * [Operations and Fundraising Initiatives](#operations-and-fundraising-initiatives)
-	1. [Golfing](#references)
-	2. [Gala](#references)
+	1. [Golfing](#golfing)
+	2. [Gala](#gala)
 	3. [Walk-A-thon](#references)
 * [Recommendations](#recommendations)
 * [Contingency Plan](#contingency-plan)
@@ -104,11 +104,14 @@ In a non-profit organisation they are responsible for directing fundraising effo
 
 For nearly a decade Wyatt’s Warriors hosts three fundraising events annually:
 
-1. **Golfing**: Angus Glen Golf Club once a year in early summer/late spring, it is an all inclusive event of 100.00 per person with a culmination of an evening of relaxation around a bon fire.  This is done very at little cost to the club, since volunteers clean up after the event working alongside club staff who also offer their services to the cause.  Attendees are requested to bring along a pot luck to make the meal options wider.   Golf carts are available and are guided by the club staff.  Invitations are usually sent out to pro golfers to grace the occasion.
+####1. Golfing 
+Angus Glen Golf Club once a year in early summer/late spring, it is an all inclusive event of 100.00 per person with a culmination of an evening of relaxation around a bon fire.  This is done very at little cost to the club, since volunteers clean up after the event working alongside club staff who also offer their services to the cause.  Attendees are requested to bring along a pot luck to make the meal options wider.   Golf carts are available and are guided by the club staff.  Invitations are usually sent out to pro golfers to grace the occasion.
 
-2. **Gala**: this is held at banquet halls and is also an all inclusive a seven-course dinner.  Tickets are usually $200.00 per person.  It targets 500-700 persons.  Preparation, decorations and clean up is usually done by the volunteers. Live music is also provided by volunteer musicians and singers. Thankyou cards are placed at every seat with a survey card for the patrons to give their opinion for the next gala.
+####2. Gala
+This is held at banquet halls and is also an all inclusive a seven-course dinner.  Tickets are usually $200.00 per person.  It targets 500-700 persons.  Preparation, decorations and clean up is usually done by the volunteers. Live music is also provided by volunteer musicians and singers. Thankyou cards are placed at every seat with a survey card for the patrons to give their opinion for the next gala.
 
-3. **Walk-A-thon**:  this is a 10 km walk and we ask donors to sponsor persons at 20.00 per every km walked by the person sponsored.  Our target is usually 50 to 100 participants.  We have observed that some donors just donate to the cause instead of sponsoring a participant.  
+####3. Walk-A-thon
+This is a 10 km walk and we ask donors to sponsor persons at 20.00 per every km walked by the person sponsored.  Our target is usually 50 to 100 participants.  We have observed that some donors just donate to the cause instead of sponsoring a participant.  
 
 So far, through Wyatt’s Warriors fundraising efforts, the organization has raised about $250,000.  We believe there is definitely an opportunity for the organization to raise more funds by adding more events along with the marketing strategies previously mentioned.  Moreover, an operations manager who is available to work for the organization on a consistent basis could help make this possible.
 
