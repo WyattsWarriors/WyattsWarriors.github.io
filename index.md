@@ -50,19 +50,90 @@ Problem Statement & Analysis
 
 Although the organization has managed to survive for nearly a decade, Wyatt’s Warriors still operates like it is in its beginning stages; in other words, no growth.  We have used the SWOT analysis to evaluate Wyatt’s Warriors in order to better understand the organization’s need to gain further support which in turn will help in its growth and success.
 
-
 ### SWOT Analysis
-![SWOT](https://raw.githubusercontent.com/ssehra/ssehra.github.io/master/Build%20Log%20Files/PCB.png)
+![SWOT](https://raw.githubusercontent.com/WyattsWarriors/WyattsWarriors.github.io/master/swot.PNG)
+
+
+
+Marketing Strategies
+--------------------
+
+Wyatt's Warriors Foundation was created to honor the memory of Wyatt and help families at a difficult time by providing comfort, support, education and encouragement to those affected by congenital heart defects. 
+
+This mission is fulfilled through numerous objectives; however Wyatt’s Warriors is experiencing obstacles preventing its growth and further success.  Non-profit organizations highly rely on the publics’ assistance.  Recognizing public perception is imperative.  Without the publics’ support we cannot succeed.  We understand Wyatt’s Warriors resources are limited, however for its cause to be a priority, the message must be clearly communicated with a sense of urgency. This can be met with an effective marketing strategy.  The purpose of Wyatt’s Warriors marketing strategy should be to identify and then communicate the benefits of Wyatt’s Warriors to the target market. Without a successful marketing strategy, unnecessary resources will be used without results.
+
+Non-profit organizations must clearly identify their target market; in this case the target being those that support Wyatt’s Warriors’ cause. Once this is established, you should establish communication channels to the target market.  These communication channels are usually focused on social media as they are easily accessible and cost-effective.  The following are some suggestions on where to begin with marketing Wyatt’s Warriors:
+
+The most common channel is an organizational website. An informative website is imperative because it establishes the organization’s  message in a clear and concise manner.  Your target market will be able to research your organization and feel reassured towards supporting your cause. 
+
+Utilize other common communication channels on the internet such as Charity Village and social media (i.e. Facebook, twitter, blogs, Buzzfeed, Youtube etc.).  These are free yet highly effective in terms of reaching a large amount of people. 
+
+Paid Advertising:  These channels may be a bit more expensive, however provide and more direct access to your target market.  They provide more focus towards directing your message to the target market.  To start, Wyatt’s Warriors can advertise on the radio as it is the least expensive medium among compared to TV and print media.  
+
+Create correspondence such as newsletters, e-newsletters, brochures and direct mail letters.  Once the target market initiates contact with your organization, you can establish a mailing list that will be able to communicate information of your cause directly with them. Other organizations such as the Canadian Cancer Society and the Heart and Stroke Foundation utilize mail correspondence to communicate their message effectively. 
+
+Host more special events.  Currently Wyatt’s Warriors hosts three events annually, a gala, golf tournament and walk-a-thon.  While these events do a good job at raising awareness and funds for the organization, Wyatt’s Warriors should host more public events. Functions such as these allow the organization to communicate information to supporters in a more direct fashion frequently instead of just three times a year.  
+
+Provide an annual report to your supporters. They will feel reassured that their resources are making a difference.
+
+
+
+Operations and Fundraising Initiatives
+--------------------------------------
+
+Operations managers are core players in both the profit and non-profit organisations.  This is why it is important for Wyatt’s Warriors to have an ‘operations person’ who is present to run the organization on a consistent basis.
+
+In a non-profit organisation they are responsible for directing fundraising efforts which requires many hours of planning.  He/she must be responsible for identifying the resources which mainly come from donors and fundraising activities.  He/She is also responsible for ensuring enough activities are planned to raise funds and direct the organisation’s funds to where it is most profitable.
+
+For nearly a decade Wyatt’s Warriors hosts three fundraising events annually:
+
+1. **Golfing**: Angus Glen Golf Club once a year in early summer/late spring, it is an all inclusive event of 100.00 per person with a culmination of an evening of relaxation around a bon fire.  This is done very at little cost to the club, since volunteers clean up after the event working alongside club staff who also offer their services to the cause.  Attendees are requested to bring along a pot luck to make the meal options wider.   Golf carts are available and are guided by the club staff.  Invitations are usually sent out to pro golfers to grace the occasion.
+
+2. **Gala**: this is held at banquet halls and is also an all inclusive a seven-course dinner.  Tickets are usually $200.00 per person.  It targets 500-700 persons.  Preparation, decorations and clean up is usually done by the volunteers. Live music is also provided by volunteer musicians and singers. Thankyou cards are placed at every seat with a survey card for the patrons to give their opinion for the next gala.
+
+3. **Walk-A-thon**:  this is a 10 km walk and we ask donors to sponsor persons at 20.00 per every km walked by the person sponsored.  Our target is usually 50 to 100 participants.  We have observed that some donors just donate to the cause instead of sponsoring a participant.  
+
+So far, through Wyatt’s Warriors fundraising efforts, the organization has raised about $250,000.  We believe there is definitely an opportunity for the organization to raise more funds by adding more events along with the marketing strategies previously mentioned.  Moreover, an operations manager who is available to work for the organization on a consistent basis could help make this possible.
+
+
+
+Recommendations
+---------------
+
+Since Canada is one of the largest multicultural countries in the world, it is necessary for Wyatt’s Warriors to increase awareness among new immigrants.  Moreover, many newcomers may have children or relatives who suffer from CHDs, therefore if they know about the organization and its efforts to bring awareness about the disease, they can connect with others and share experiences.
+
+1. The organization should optimize their online webpage and provide information in more languages because their target market are not only local residents but also the new arrivals in Canada who may not speak English. Therefore, it does help Wyatt’s Warriors to connect with a wider target market.  
+
+2. The Wyatt’s Warriors should reorganize their program. Because even the director is working part-time currently in the organization. Therefore, they need to hire some professional employers such as supervisor, non-profit association executive director, program manager and so on, who has some experiences of running a non-profit organization and also can be a full-time worker. Then, improve the training and development of the staff through the new program in order to let the workers be responsible for their duty, and quiz the employees to ensure comprehension and set standards. A key implementation is to have the employees complete an anonymous survey to help with improvement of a future training session.
+
+3. As a non-profit organization, the fundraising for Wyatt’s Warriors is a challenge. the organization should create a clear-cut business plan including fundraising ideas, and it will include each level of the management and supervision’s fundraising objective and goal. And the organization could look for sponsors and build up a cooperative relationship with some of the companies by offering free heart defect examination service to the workers once a year, and at the same time, Wyatt’s Warriors can get the financial support from those companies.  Moreover, Wyatt’s Warriors should apply for government grants and funding ASAP as this will help secure financial stability for the organization so it can hire staff and pay for advertising.
+
+4. After Wyatt’s Warriors receives enough financial support, they could launch a larger advertising campaign to attract more attention. During this time, local newspaper and media outlets (radio, television, podcast, internet, social media, etc.), should be invited and included in covering events for the organization.
+
+5. Because of Wyatt’s Warriors hosts three major fundraising events in each year, they could recruit high school volunteers who are looking for extra volunteer hours to complete their community hours and it is a good way to be cost-effective.  
+
+6. Wyatt’s Warriors should host events on key cultural and ethnic festivities to attract more people and spreading awareness to different cultural communities. They should also organize draws and fundraisers to earn monetary funds for future operations. Furthermore, they should allow people to volunteer by cooking different foods for others to try out at their multicultural events.
 
 
 
 
+Contingency Plan
+----------------
+
+The board of directors should develop a fund-raising committee to help fund extra activities for supporters and reward members for attendance and noticeable hard work. And, since the large advertising campaign is launched (after enough funds are raised), there will be more new people who are currently suffering from congenital heart defects, therefore, the program can also receive feedback from those new supporters. By reviewing the feedback, the organization could find out whether they are satisfied with the newly updated program service. And a faster implementation could be for Wyatt’s Warriors to leave donation boxes at school, government and any other public area for a collection of funds. Then, people and companies are always looking for ways to give back to the community, so this could simply require an advertisement online, in the newspaper or even through a church to gain awareness in the society.
 
 
 
 
+Conclusion
+----------
+
+At this point in time it is in Wyatt’s Warriors best interest to transition its operations from a part-time non-profit organization to a full-time one.   This can be achieved by recruiting volunteers from local high schools, colleges and universities as well as retirees looking to help support a worthy cause.  This is a cost-effective solution until Wyatt’s Warriors can gain funding and become more financially stable.  As for raising funds, in addition to hosting more fundraising events, Wyatt’s Warriors should also explore funding streams such as government grants that are aligned with the scope of the organization.  In terms of marketing and raising awareness for the cause, Wyatt’s Warriors first step in making this possible is to update its website as soon as possible and utilize social media channels to boost its presence.  Once Wyatt’s Warriors gains some financial stability, the organization can pay for more advertising as well as hiring someone to look after the organization on a daily basis.
 
 
+
+References
+----------
 
 
 
