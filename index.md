@@ -3,23 +3,21 @@ layout: default
 ---
 
 
-```
 Table of Contents
 -----------------
-* [Memorandum]
-* [Executive Summary]
-* [Problem Statement & Analysis]
-	+ [SWOT Analysis]
-* [Marketing Strategies]
-* [Operations and Fundraising Initiatives]
-	1. [Golfing]
-	2. [Gala]
-	3. [Walk-A-thon]
-* [Recommendations]
-* [Contingency Plan]
-* [Conclusion]
-* [References]
-```
+* [Memorandum](#memorandum)
+* [Executive Summary](#executive-summary)
+* [Problem Statement & Analysis](#problem-statement--analysis)
+	+ [SWOT Analysis](#swot-analysis)
+* [Marketing Strategies](#marketing-strategies)
+* [Operations and Fundraising Initiatives](#operations-and-fundraising-initiatives)
+	1. [Golfing](#references)
+	2. [Gala](#references)
+	3. [Walk-A-thon](#references)
+* [Recommendations](#recommendations)
+* [Contingency Plan](#contingency-plan)
+* [Conclusion](#conclusion)
+* [References](#references)
 
 
 Memorandum
