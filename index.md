@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![logo](https://raw.githubusercontent.com/WyattsWarriors/WyattsWarriors.github.io/master/logo.PNG)
+![logo](https://raw.githubusercontent.com/WyattsWarriors/WyattsWarriors.github.io/master/logo.png)
 
 ![wyatt](https://raw.githubusercontent.com/WyattsWarriors/WyattsWarriors.github.io/master/wyatt.PNG)
 
