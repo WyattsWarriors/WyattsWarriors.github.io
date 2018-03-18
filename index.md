@@ -7,15 +7,16 @@ Memorandum
 ----------
 
 Date:  March 25, 2018
+
 To:  Laura Celsie, Director
+
 From:  Emalyn, Sukhdeep, Grace Castillo, Piyal, Zhaocheng & Zhiyu
+
 Subject:  Wyatt’s Warriors
 
 Wyatt’s Warriors is a foundation that has been committed to spreading awareness about congenital heart defects (CHDs) in Canada since 2009.  The foundation was formed in honour of its namesake, Wyatt Celsie, nephew of Laura Celsie, who was born with and succumbed complications from a CHD.  While the premise of Wyatt’s Warriors is to spread awareness about CHDs, not many people are aware of the existence of this organization aside from the staff and parents of patients at the cardiac care unit at The Hospital for Sick Children in Toronto.  
 
 The organization is much smaller in scale compared to other non-profit organizations. While it is smaller it is possible for it to run more efficiently and effectively in terms of not only raising awareness about CHDs but also fundraising for its efforts.  At the moment, the organization is operated by one person who is acting director but on a volunteer basis.  The director currently has a full-time job therefore Wyatt’s Warriors has become a part-time focus which is one of the reasons why not many people know about the organization.  Fundraising for Wyatt’s Warriors is a challenge. Each year Wyatt’s Warriors hosts three major fundraising events, a gala (its largest and most complex event), a golf tournament and a Walk-A-Thon.  Ticket sales for the gala along with sponsorship and donations for the golf tournament and Walk-A-Thon have declined the past couple of years.  Other than family members of the director and parents of patients who know about Wyatt’s Warriors, the organization is in need of volunteers not only to help out when there are fundraising events happening; but to also assist the organization with its operations on a more consistent basis especially with marketing and promotion as well as fundraising.  While it is admirable that one person is taking on all the responsibilities of managing Wyatt’s Warriors, it is too much for one person to handle.  Running a non-profit organization requires at the very least a small team of three to five people.
-
-
 
 
 
@@ -44,10 +45,20 @@ Additionally, Wyatt’s Warriors should host events on key cultural and ethnic f
 
 
 
+Problem Statement & Analysis
+----------------------------
+
+Although the organization has managed to survive for nearly a decade, Wyatt’s Warriors still operates like it is in its beginning stages; in other words, no growth.  We have used the SWOT analysis to evaluate Wyatt’s Warriors in order to better understand the organization’s need to gain further support which in turn will help in its growth and success.
 
 
 
 
+
+
+
+| STRENGTHS  - This non-profit organization can arrange for more fundraising due to the emotional link and attachment they are creating with their name “Wyatt’s Warriors”. The story of Wyatt is a story of struggle and survival of a baby who lived for two years before passing away from a Congenital Heart Defect.  -The company through its website and its Facebook page is creating awareness about CHDs.,It has a separate section on CHD facts to give people awareness about the disease so that more people can come forward and relate to the cause. They are likely to donate more if they understand the complexity of this disease. | WEAKNESSES  - The official,website is not regularly updated. Recently, there was a large time gap in the,posting and updating of the website content. This will not work to the,advantage of Wyatt’s Warriors as they can lose out on the required publicity,for fundraising.  - Wyatt’s Warriors,currently does not have a large number of associations and memberships. The,desperation is shown in the written content of the website and the Facebook,page where it is evident that the company is looking for funds.  - The,organization is currently operated by one person (the founder) in her spare,time.,There needs to be a consistent,presence in the day-to-day operations in order for the organization to grow. |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OPPORTUNITIES  - Networking sessions can be arranged by this organization for building a dialogue on their services and for getting in touch with a larger support network. Approaching businesses and inquiring about sponsorships from them can be something worth exploring.  - More volunteers can be attracted towards the cause of Wyatt’s Warriors who may actively work for fundraising for babies with Congenital Heart Defects.                                                                                                                                                                                                          | THREATS  - There are many other fundraising organizations in Canada who are more active and have larger setups compared to Wyatt’s Warriors. This could affect the fundraising for the causes of Wyatt’s Warriors.  -The other non-profit organizations are working on more than one disease and agenda; hence, more fundraising can be generated by them with a broader agenda as opposed to Wyatt’s Warriors.                                                                                                                                                                                                                                                                                                                |
 
 
 
