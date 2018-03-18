@@ -11,9 +11,9 @@ Table of Contents
 	- [SWOT Analysis](#swot-analysis)
 * [Marketing Strategies](#marketing-strategies)
 * [Operations and Fundraising Initiatives](#operations-and-fundraising-initiatives)
-	1. [Golfing](#golfing)
-	2. [Gala](#gala)
-	3. [Walk-A-thon](#references)
+	1. [Golfing](#1-golfing)
+	2. [Gala](#2-gala)
+	3. [Walk-A-thon](#3-walk-a-thon)
 * [Recommendations](#recommendations)
 * [Contingency Plan](#contingency-plan)
 * [Conclusion](#conclusion)
@@ -104,15 +104,15 @@ In a non-profit organisation they are responsible for directing fundraising effo
 
 For nearly a decade Wyatt’s Warriors hosts three fundraising events annually:
 
-#### 1. Golfing 
+##### 1. Golfing 
 
 Angus Glen Golf Club once a year in early summer/late spring, it is an all inclusive event of 100.00 per person with a culmination of an evening of relaxation around a bon fire.  This is done very at little cost to the club, since volunteers clean up after the event working alongside club staff who also offer their services to the cause.  Attendees are requested to bring along a pot luck to make the meal options wider.   Golf carts are available and are guided by the club staff.  Invitations are usually sent out to pro golfers to grace the occasion.
 
-#### 2. Gala
+##### 2. Gala
 
 This is held at banquet halls and is also an all inclusive a seven-course dinner.  Tickets are usually $200.00 per person.  It targets 500-700 persons.  Preparation, decorations and clean up is usually done by the volunteers. Live music is also provided by volunteer musicians and singers. Thankyou cards are placed at every seat with a survey card for the patrons to give their opinion for the next gala.
 
-#### 3. Walk-A-thon
+##### 3. Walk-A-thon
 
 This is a 10 km walk and we ask donors to sponsor persons at 20.00 per every km walked by the person sponsored.  Our target is usually 50 to 100 participants.  We have observed that some donors just donate to the cause instead of sponsoring a participant.  
 
@@ -159,18 +159,9 @@ References
 ----------
 
 
-
-
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
 
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
